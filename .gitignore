@@ -1,5 +1,11 @@
 # intellij
 .idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Output
+out/
 
 # Compiled class file
 *.class
